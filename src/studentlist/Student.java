@@ -13,6 +13,7 @@ package studentlist;
 public class Student {
     private String name;
     private int ID;
+    private int maxHrs;
     
     public Student()
     {
