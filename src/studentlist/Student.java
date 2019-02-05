@@ -10,6 +10,7 @@ package studentlist;
  *
  * @author shaim
  Date: feb 5, 2019
+ location: Davis campus
  */
 public class Student {
     private String name;
