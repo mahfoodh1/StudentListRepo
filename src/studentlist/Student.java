@@ -9,6 +9,7 @@ package studentlist;
 /**
  *
  * @author shaim
+ Date: feb 5, 2019
  */
 public class Student {
     private String name;
